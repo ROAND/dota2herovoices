@@ -1,0 +1,27 @@
+<time>
+    1394412885.04
+</time>
+<files>
+    <file>
+        //home/ronnie/workspace/dota2_hero_voices/dota2_hero_voices.py
+    </file>
+</files>
+<classes>
+    <class>
+         <name>
+             Dota2HeroMain
+         </name>
+         <file>
+             //home/ronnie/workspace/dota2_hero_voices/dota2_hero_voices.py
+         </file>
+
+    </class>
+</classes>
+<app>
+    <class>
+         Dota2HeroVoicesApp
+    </class>
+    <file>
+         //home/ronnie/workspace/dota2_hero_voices/dota2_hero_voices.py
+    </file>
+</app>

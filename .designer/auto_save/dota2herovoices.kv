@@ -1,0 +1,44 @@
+#:kivy 1.8
+
+<RSGrid,RAGrid,RIGrid>:
+    x: 200
+    y: 200
+    cols: 3
+    rows: 3
+    spacing: (100,100)
+    padding: (50,50,50,50)
+    color: (255,0,0)
+    Label:
+        text: root.category
+    Label:
+        text: 'other text'
+
+#:kivy 1.8
+
+<RSGrid,RAGrid,RIGrid>:
+    x: 200
+    y: 200
+    cols: 3
+    rows: 3
+    spacing: (100,100)
+    padding: (50,50,50,50)
+    color: (255,0,0)
+    Label:
+        text: root.category
+    Label:
+        text: 'other text'
+
+<Dota2HeroMain>:
+    x: 200
+    y: 200
+    BoxLayout:
+        x: root.x
+        y: root.y
+        id: box_main
+        pos_hint: (.4,1)
+        orientation: 'vertical'
+        RSGrid:
+        RAGrid:
+        RIGrid:
+
+
