@@ -35,16 +35,16 @@ version = 0.2.0
 requirements = kivy
 
 # (str) Presplash of the application
-presplash.filename = %(source.dir)s/images/dota-2-loading.jpg
+presplash.filename = %(source.dir)s/images/dota-2-load.jpg
 
 # (str) Icon of the application
-icon.filename = %(source.dir)s/images/dota2logo.jpg
+icon.filename = %(source.dir)s/images/logo.png
 
 # (str) Supported orientation (one of landscape, portrait or all)
 orientation = portrait
 
 # (bool) Indicate if the application should be fullscreen or not
-fullscreen = 1
+fullscreen = 0
 
 
 #
